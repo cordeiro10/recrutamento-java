@@ -1,7 +1,7 @@
 # Sistema de Recrutamento - Java
 
 ## Informação do projeto:
-- Dados são salvos me memória
+- Dados são salvos em memória
 - App inicia em Controller.Main
 
 ## Desenvolvido por: 
